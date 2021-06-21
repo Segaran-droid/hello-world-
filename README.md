@@ -1,2 +1,6 @@
 # hello-world-
-This is a test to know how Github works 
+
+Hi Humans !
+
+Segaran-droid, I like Node.js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Earth tacos.
